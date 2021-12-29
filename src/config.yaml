@@ -3,12 +3,12 @@ relativeurls: true
 languageCode: en
 pluralizelisttitles: false
 removePathAccents: true
-title: Awesome IPFS
+title: Awesome Monacoin
 
 disableKinds:
   - taxonomyTerm
 
 params:
   Description: >-
-    Useful resources for using IPFS and building things on top of it
+    Useful resources for using Monacoin blockchain and building things on top of it
   image: /images/banner.png

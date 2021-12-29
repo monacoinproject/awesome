@@ -20,8 +20,8 @@ newIssueWelcomeComment: >
     - "Status" labels will show if this is ready to be worked on, blocked, or in progress.
     - "Need" labels will indicate if additional input or analysis is required.
 
-  Finally, remember to use https://discuss.ipfs.io if you just need general
-  support.
+  Finally, remember to use https://github.com/monacoinproject/monacoin/discussions
+   if you just need general support.
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 # Comment to be posted to on PRs from first time contributors in your repository
@@ -37,9 +37,7 @@ newPRWelcomeComment: >
       and stakeholders linked/mentioned.
 
     * Your contribution itself is clear (code comments, self-review for the
-      rest) and in its best form. Follow the [code contribution
-      guidelines](https://github.com/ipfs/community/blob/master/CONTRIBUTING.md#code-contribution-guidelines)
-      if they apply.
+      rest) and in its best form.
 
   Getting other community members to do a review would be great help too on
   complex PRs (you can ask in the chats/forums). If you are unsure about

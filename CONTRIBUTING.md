@@ -17,7 +17,7 @@ Make an individual pull request for each suggestion:
 Style tips:
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
-- Don't mention `IPFS` in the description as it's implied.
+- Don't mention `Monacoin` in the description as it's implied.
 - Start the description with a capital and end with a full stop/period.
 - Check your spelling and grammar.
 - You can add a picture to describe your idea in [`./src/static/images`](./src/static/images).
@@ -31,4 +31,4 @@ Thank you for your suggestions!
 
 -----
 
-**NOTE**: If you want to edit the README file directly (not the items/links) you need to modify the [`scripts/readme-template.md`](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md) instead. Thank you!
+**NOTE**: If you want to edit the README file directly (not the items/links) you need to modify the [`scripts/readme-template.md`](https://github.com/monacoinproject/awesome/blob/master/scripts/readme-template.md) instead. Thank you!
