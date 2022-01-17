@@ -8,3 +8,8 @@ content:
   source: https://github.com/monacoinproject/monacoin
   picture: /images/monacoin.png
   description: The official wallet and coind.
+- title: electrum-mona
+  website: https://electrum-mona.org/
+  source: https://github.com/wakiyamap/electrum-mona
+  picture: /images/electrum-mona.svg
+  description: electrum fork wallet.

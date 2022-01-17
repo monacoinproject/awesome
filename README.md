@@ -25,6 +25,7 @@ Readme and the website are automatically generated. In order to add an element t
 ## Apps
 
 - [Monacoin core](https://monacoin.org/) - The official wallet and coind. [Source](https://github.com/monacoinproject/monacoin)
+- [electrum-mona](https://electrum-mona.org/) - electrum fork wallet. [Source](https://github.com/wakiyamap/electrum-mona)
 
 ## Articles
 
